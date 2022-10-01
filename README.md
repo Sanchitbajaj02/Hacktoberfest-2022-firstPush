@@ -1,8 +1,7 @@
 <h1 align="center"> <img src= "https://octodex.github.com/images/original.png" width= "40" /> HacktoberFest 2022 <img src= "https://octodex.github.com/images/original.png" width= "40" /> </h1>
 
 <div align="center">
-
-<img src= "https://github.com/harshmittal1750/hacktoberfest2022/blob/main/EmailBanners-Dark.png" width= "1200"/>
+     ![Hacktoberfest 2022](https://github.com/Sanchitbajaj02/Hacktoberfest-2022-firstPush/blob/master/.github/EmailBanners-Dark.png)
 
 <a href="https://github.com/harshmittal1750/hacktoberfest2022/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/harshmittal1750/hacktoberfest2022?color=2b9348"></a>
 <img src="https://img.shields.io/badge/HacktoberFest-2022-blueviolet" alt="Hacktober Badge"/>
@@ -47,20 +46,21 @@ Check out `good-first-issues` for contributing [here](https://github.com/harshmi
 <h3 style="color:red" >- Fork this repo (button on top) (Mandatory)</h3>
 <h3 style="color:red" >- Clone on your local machine(Mandatory)</h3>
 
-```
-git clone https://github.com/harshmittal1750/hacktoberfest2022.git
+- Fork the repository and clone
 
+```
+git clone https://github.com/Sanchitbajaj02/Hacktoberfest-2022-firstPush
 ```
 
 - Navigate to project directory.
 
 ```
-cd hacktoberfest2022
+cd Hacktoberfest-2022-firstPush
 ```
 
 - Create a new Branch
 
-```markdown
+```
 git checkout -b my-new-branch
 ```
 
