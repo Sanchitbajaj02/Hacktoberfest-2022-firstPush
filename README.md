@@ -1,52 +1,53 @@
-<h1 align="center"> <img src= "https://octodex.github.com/images/original.png" width= "40" /> HacktoberFest 2022 <img src= "https://octodex.github.com/images/original.png" width= "40" /> </h1>
+# HacktoberFest 2022: First Push
 
-<div align="center">
-     ![Hacktoberfest 2022](https://github.com/Sanchitbajaj02/Hacktoberfest-2022-firstPush/blob/master/.github/EmailBanners-Dark.png)
+![Hacktoberfest 2022](.github/EmailBanners-Dark.png)
 
-<a href="https://github.com/harshmittal1750/hacktoberfest2022/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/harshmittal1750/hacktoberfest2022?color=2b9348"></a>
-<img src="https://img.shields.io/badge/HacktoberFest-2022-blueviolet" alt="Hacktober Badge"/>
-<img src="https://img.shields.io/static/v1?label=%E2%AD%90&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<a href="https://github.com/harshmittal1750" ><img src="https://img.shields.io/badge/Contributions-welcome-green.svg?style=flat&logo=github" alt="Contributions" /></a>
-<a href="https://github.com/harshmittal1750/hacktoberfest2022/pulls"><img src="https://img.shields.io/github/issues-pr/harshmittal1750/hacktoberfest2022" alt="Pull Requests Badge"/></a>
+[![Contributers](https://img.shields.io/github/contributors/sanchitbajaj02/Hacktoberfest-2022-firstPush?color=blueviolet)](https://github.com/Sanchitbajaj02/Hacktoberfest-2022-firstPush/graphs/contributors)
+[![Issues](https://img.shields.io/github/issues/sanchitbajaj02/Hacktoberfest-2022-firstPush?color=blueviolet)](https://github.com/Sanchitbajaj02/Hacktoberfest-2022-firstPush/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/sanchitbajaj02/Hacktoberfest-2022-firstPush?color=blueviolet)](https://github.com/Sanchitbajaj02/Hacktoberfest-2022-firstPush/pulls)
+[![Forks](https://img.shields.io/github/forks/sanchitbajaj02/Hacktoberfest-2022-firstPush?color=blueviolet)](https://github.com/Sanchitbajaj02/Hacktoberfest-2022-firstPush/network/members)
+[![Stars](https://img.shields.io/github/stars/sanchitbajaj02/Hacktoberfest-2022-firstPush?color=blueviolet)](https://github.com/Sanchitbajaj02/Hacktoberfest-2022-firstPush/stargazers)
 
-<h4> You can make folders of programming languages and also you can contribute in the repo's below.</h4>
-
-<h4> Feel free to contribute to this repo by creating and editing little programs in any programming language and make different folders for the code you want to contribute. </h4>
-
-If you want to practice to make a pull request, follow the [CONTRIBUTING.md](/CONTRIBUTING.md)
-
-Check out `good-first-issues` for contributing [here](https://github.com/harshmittal1750/hacktoberfest2022/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
-
-</div>
+<!-- ![Hacktoberfest2022](https://img.shields.io/badge/HacktoberFest-2021-blueviolet) -->
 
 <br>
 
-### Connect with Author
+## Welcome to this year HacktoberFest 2022
 
-<a href="https://www.linkedin.com/in/harshmittal1750/">
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height = 50 width = 50
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
-</a>
-<a href="https://github.com/harshmittal1750" class="pics">
-<img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" height = 50 width = 50
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
-</a>
-<a href="https://harshmittal1750.tez.page/" class="pics">
-<img src="https://i.pinimg.com/originals/00/50/71/005071cbf1fdd17673607ecd7b7e88f6.png" height = 50 width = 50
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
-</a>
+A beginner-friendly repository to help you in open-source contribution. Made specifically for contribution in HACKTOBERFEST 2022!
 
-### Contributing
+## ❓ What's Hacktoberfest 2021?
 
-## Getting Started 🤩🤗:
+Hacktoberfest is the easiest way to get into open source! Hacktoberfest is a month long festival of open source code presented by Digital Ocean and DEV this year in 2022.
 
-<h3 style="color:red" >- Fork this repo (button on top) (Mandatory)</h3>
-<h3 style="color:red" >- Clone on your local machine(Mandatory)</h3>
+During the entire month of October 2022, all you have to do is contribute to any open source projects and open at least 4 pull requests. Yes, any project and any kind of contributions. It can be a be a bug fix, improvement, or even a documentation change! And win a T-Shirt and awesome stickers.
 
-- Fork the repository and clone
+If you’ve never contributed to open source before, this is the perfect time to get started because Hacktoberfest provides a large list of available contribution opportunities (and yes, there are always plenty for beginners too).
+
+## 👕 Why Should I Contribute?
+
+Hacktoberfest has a simple and plain moto.
+
+> Support open source and earn a limited edition T-shirt!
+
+So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop. On plus side, you will get into beautiful world of open source and get the international exposure.
+Wait there's more!
+
+## 🎯Objectives
+
+The Main Objectives of this Repositry is to help People for their Contribution in Hacktoberfest 2021
+
+<br/>
+
+## Connect with Author
+
+<a href="https://www.linkedin.com/in/sanchitbajaj02/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="50" width="50" alt="Sanchit's Linkedin" /></a>
+<a href="https://www.github.com/sanchitbajaj02/"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" height="50" width="50" alt="Sanchit's Github" /></a>
+
+## 📝 Contribution Guidelines
+
+- Fork this repo (button on top) _(Mandatory)_
+- Clone this on your local machine _(Mandatory)_
 
 ```
 git clone https://github.com/Sanchitbajaj02/Hacktoberfest-2022-firstPush
@@ -91,7 +92,7 @@ git push origin my-new-branch
 An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.
 
 ```terminal
-git remote add upstream https://github.com/harshmittal1750/hacktoberfest2022
+git remote add upstream https://github.com/Sanchitbajaj02/Hacktoberfest-2022-firstPush
 ```
 
 You can verify that the new remote has been added by typing
@@ -110,11 +111,7 @@ This will give you any eventual conflicts and allow you to easily solve them in 
 
 For more information on syncing forks [read this article from Github](https://help.github.com/articles/syncing-a-fork/).
 
-<h4>User can become a contributer by managing documentation as well.
-</h4>
-
-<h4> See also the list of <a href="https://github.com/harshmittal1750/hacktoberfest2022/graphs/contributors">contributors</a> who participated in this project. </h4>
-Please read <a href="https://github.com/harshmittal1750/hacktoberfest2022/blob/main/Contributing.md"> CONTRIBUTION.md </a> and <a href="https://github.com/harshmittal1750/hacktoberfest2022/blob/main/CODE_OF_CONDUCT.md"> CODE_OF_CONDUCT.md </a> for details on our code of conduct, and the process for submitting pull requests to us.
+<!-- Please read <a href="https://github.com/harshmittal1750/hacktoberfest2022/blob/main/Contributing.md"> CONTRIBUTION.md </a> and <a href="https://github.com/harshmittal1750/hacktoberfest2022/blob/main/CODE_OF_CONDUCT.md"> CODE_OF_CONDUCT.md </a> for details on our code of conduct, and the process for submitting pull requests to us.
 
 ### Rules
 
@@ -162,10 +159,4 @@ If you like this project, please consider supporting it by giving it a ⭐️. I
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-**If your name is missing from the contributors list, please [Email](mailto:harshmittal1750@gmail.com) me with your Hacktoberfest-accepted lable screenshot of PR and I'll make sure to add you only if you have contributed to this project.**
-
-## License
-
-**This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE](/LICENSE) file for details**
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0)
+**If your name is missing from the contributors list, please [Email](mailto:harshmittal1750@gmail.com) me with your Hacktoberfest-accepted lable screenshot of PR and I'll make sure to add you only if you have contributed to this project.** -->
