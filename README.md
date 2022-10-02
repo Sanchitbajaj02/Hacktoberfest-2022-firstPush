@@ -8,17 +8,15 @@
 [![Forks](https://img.shields.io/github/forks/sanchitbajaj02/Hacktoberfest-2022-firstPush?color=blueviolet)](https://github.com/Sanchitbajaj02/Hacktoberfest-2022-firstPush/network/members)
 [![Stars](https://img.shields.io/github/stars/sanchitbajaj02/Hacktoberfest-2022-firstPush?color=blueviolet)](https://github.com/Sanchitbajaj02/Hacktoberfest-2022-firstPush/stargazers)
 
-<!-- ![Hacktoberfest2022](https://img.shields.io/badge/HacktoberFest-2021-blueviolet) -->
+<!-- ![Hacktoberfest2022](https://img.shields.io/badge/HacktoberFest-2022-blueviolet) -->
 
-<br>
 
-## Welcome to this year HacktoberFest 2022
+## Welcome to this year's HacktoberFest 
 
 A beginner-friendly repository to help you in open-source contribution. Made specifically for contribution in HACKTOBERFEST 2022!
 
-## ❓ What's Hacktoberfest 2021?
-
-Hacktoberfest is the easiest way to get into open source! Hacktoberfest is a month long festival of open source code presented by Digital Ocean and DEV this year in 2022.
+## ❓ What's Hacktoberfest 2022?
+Hacktoberfest is the easiest way to get into open source! Hacktoberfest is a month long festival of open source code presented by [Digital Ocean](https://www.digitalocean.com/) and [DEV](https://www.dev.to/) this year in 2022.
 
 During the entire month of October 2022, all you have to do is contribute to any open source projects and open at least 4 pull requests. Yes, any project and any kind of contributions. It can be a be a bug fix, improvement, or even a documentation change! And win a T-Shirt and awesome stickers.
 
@@ -35,14 +33,8 @@ Wait there's more!
 
 ## 🎯Objectives
 
-The Main Objectives of this Repositry is to help People for their Contribution in Hacktoberfest 2021
+The Main Objectives of this Repositry is to help People for their Contribution in Hacktoberfest 2022
 
-<br/>
-
-## Connect with Author
-
-<a href="https://www.linkedin.com/in/sanchitbajaj02/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="50" width="50" alt="Sanchit's Linkedin" /></a>
-<a href="https://www.github.com/sanchitbajaj02/"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" height="50" width="50" alt="Sanchit's Github" /></a>
 
 ## 📝 Contribution Guidelines
 
@@ -111,19 +103,30 @@ This will give you any eventual conflicts and allow you to easily solve them in 
 
 For more information on syncing forks [read this article from Github](https://help.github.com/articles/syncing-a-fork/).
 
-### Support
+## Support
 
 If you like this project, please consider supporting it by giving it a ⭐️. It will help us to grow and improve this project and help others to find it.
 
-### Conclusion
+## Conclusion
 
 - Happy Contributing! 🎉
 - May you have a great Hacktoberfest 2022! 🎉
 - If you have any questions, feel free to ask me. I will be happy to help you. 😊
 
-### References
+## References
 
 - [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com)
 - [Hacktoberfest 2022 Participation Guidelines](https://hacktoberfest.com/participation)
 
-**✨ Thanks goes to these wonderful people ✨**
+## Connect with Author
+
+<a href="https://www.linkedin.com/in/sanchitbajaj02/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="50" width="50" alt="Sanchit's Linkedin" /></a>
+<a href="https://www.github.com/sanchitbajaj02/"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" height="50" width="50" alt="Sanchit's Github" /></a>
+
+## Our valuable Contributors :
+
+<a href="https://github.com/Sanchitbajaj02/Hacktoberfest-2022-firstPush/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=Sanchitbajaj02/Hacktoberfest-2022-firstPush" />
+</a>
+
+## ✨ Thanks goes to these wonderful people ✨
