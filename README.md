@@ -111,15 +111,6 @@ This will give you any eventual conflicts and allow you to easily solve them in 
 
 For more information on syncing forks [read this article from Github](https://help.github.com/articles/syncing-a-fork/).
 
-<!-- Please read <a href="https://github.com/harshmittal1750/hacktoberfest2022/blob/main/Contributing.md"> CONTRIBUTION.md </a> and <a href="https://github.com/harshmittal1750/hacktoberfest2022/blob/main/CODE_OF_CONDUCT.md"> CODE_OF_CONDUCT.md </a> for details on our code of conduct, and the process for submitting pull requests to us.
-
-### Rules
-
-- Read the [CONTRIBUTING.md](/Contributing.md) file.
-- Respect people.
-- Be friendly, helpful, and patient.
-- You can contribute in any way.
-
 ### Support
 
 If you like this project, please consider supporting it by giving it a ⭐️. It will help us to grow and improve this project and help others to find it.
@@ -135,28 +126,4 @@ If you like this project, please consider supporting it by giving it a ⭐️. I
 - [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com)
 - [Hacktoberfest 2022 Participation Guidelines](https://hacktoberfest.com/participation)
 
-<br>
-
-- This project and other projects listed above are a part of Hacktoberfest 2022 and are open to all members of the GitHub community. Any member may contribute to these projects without being a collaborator or a maintainer and earn a T-shirt from DigitalOcean and DEV by making four valid pull requests (PRs) between October 1-31 (in any time zone).
-
-- The first 40,000 participants (maintainers and contributors) who complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the Hacktoberfest 2022 t-shirt.
-
 **✨ Thanks goes to these wonderful people ✨**
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center"><a href="https://github.com/harshmittal1750"><br /><sub><b>Harsh Mittal</b></sub></a><br /><a href="#" title="Maintenance"> 🚧</a> <a href="https://github.com/harshmittal1750/hacktoberfest2022/commits?author=harshmittal1750" title="Code">💻</a> <a href="#content-harshmittal1750" title="Content">🖋</a></td>
- 
-  </tbody>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-**If your name is missing from the contributors list, please [Email](mailto:harshmittal1750@gmail.com) me with your Hacktoberfest-accepted lable screenshot of PR and I'll make sure to add you only if you have contributed to this project.** -->
